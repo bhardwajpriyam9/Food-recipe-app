@@ -22,6 +22,29 @@ This application was built with:
 - [VS Code](https://code.visualstudio.com/docs)
 
 
+
+## Installation
+
+**Prerequisite** - Install VS-Code on your device or any other code editor of your choice.
+Fork the project & fire up a terminal to enter the following command:
+```
+$ git clone git@github.com:<username>/Food-recipe-app.git
+
+```
+cd into the project folder using:
+```
+$ cd ./Food-recipe-app/
+```
+To open the project in Visual Studio Code, enter:
+```
+$ code .
+```
+This will open up the project directory in your vs code.
+
+Finally, run the project via live server or opening index.html directly in browser.
+
+
+
 ## How to use?
 
 - Type an ingredient int the searchbox.
